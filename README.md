@@ -18,7 +18,7 @@ For anything earlier, send a PR.
 
 ### Promise that resolves to an array of valid kernel directories
 
-```
+```javascript
 > require('.').kernelDirs().then((dirs) => console.log(dirs))
 Promise { <pending> }
 > [ '/usr/local/share/jupyter/kernels' ]
