@@ -1,0 +1,15 @@
+{
+  "name": "ipython-paths",
+  "version": "0.0.0",
+  "description": "Paths for legacy IPython",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
