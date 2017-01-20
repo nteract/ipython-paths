@@ -1,5 +1,7 @@
 # IPython paths
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nteract/ipython-paths.svg)](https://greenkeeper.io/)
+
 Fetches expected IPython paths for you, both system installed and user installed
 kernels.
 
